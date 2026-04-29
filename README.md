@@ -1,4 +1,4 @@
-# ¡Hola! Soy David Antonio GCA 👋
+# ¡Hola! Soy David Antonio GCA 
 
 Soy estudiante de 7º semestre en la carrera de **Redes y Servicios de Cómputo** (Universidad Veracruzana).
 
