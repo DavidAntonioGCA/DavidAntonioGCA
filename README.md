@@ -1,31 +1,17 @@
-# ¡Hola! Soy David Antonio GCA 
+Estudiante de 9º semestre en Redes y Servicios de Cómputo (Universidad Veracruzana), haciendo mi internship profesional en el departamento de redes de Rectoría UV.
 
-Soy estudiante de 7º semestre en la carrera de **Redes y Servicios de Cómputo** (Universidad Veracruzana).
+Me apasiona la ciberseguridad y desarrollo habilidades tanto en 🔴 Red Team (pentesting y explotación) como en 🔵 Blue Team (detección, monitoreo y respuesta). En este repositorio encontrarás mi laboratorio personal (Home Lab), write-ups de CTF y proyectos prácticos orientados a seguridad ofensiva y defensiva.
 
-Me apasiona la ciberseguridad y desarrollo habilidades tanto en **🔴 Red Team** (pentesting y explotación) como en **🔵 Blue Team** (detección, monitoreo y respuesta).
+Proyecto destacado: KORAL
 
-En este repositorio encontrarás mi laboratorio personal (Home Lab), *write-ups* de CTF y proyectos prácticos orientados a seguridad ofensiva y defensiva.
+Pipeline de triage de alertas asistido por LLM — mi tesina, con despliegue real en producción en la Rectoría de la Universidad Veracruzana.
 
----
+Arquitectura de 9 módulos que ingiere logs de PRTG y firewall perimetral
+Inferencia local con Ollama sobre un nodo con NVIDIA T4
+RAG con ChromaDB (MITRE ATT&CK, historial de casos) + PostgreSQL para contexto organizacional
+Confidence Scorer con Human-in-the-Loop y Audit Log inmutable alineado a NIST SP 800-61r3
+Metodología DSRM, con Revisión Multivocal de Literatura (Quasi-Gold Standard) ya completada
 
-### Contacto
+Certificaciones en progeso:
 
-* **LinkedIn:** [https://www.linkedin.com/in/david-antonio-cadillo-0a5ab1395](https://www.linkedin.com/in/david-antonio-cadillo-0a5ab1395)
-* **Email:** `cadillogonzalezdavidantonio4@gmail.com`
-
----
-
-###  Mi Toolkit (Tecnologías y Herramientas)
-
-* **Lenguajes & Scripting:** Python, Bash, C/C++ (análisis y herramientas)
-* **Análisis de Red & Monitoreo:** tcpdump, Wireshark, Zeek (Bro), Suricata, Security Onion (mini-SOC)
-* **Recon y Pentesting:** Nmap, Netcat, Gobuster, Burp Suite, Metasploit, SQLMap, Nikto
-* **Vulnerability Assessment:** OpenVAS, Nessus
-* **Forense y Análisis de Binarios:** strings, binwalk, steghide, Volatility, Autopsy
-* **Sistemas & Administración:** Linux (Kali, Ubuntu Server, Debian, Arch, Rocky, OpenSUSE), Windows Server, FreeBSD, Apache, DNS, DHCP, SSH, GPG
-* **Virtualización & Despliegue:** VirtualBox, Docker, VMware
-* **DevOps / Automatización:** Azure DevOps (CI/CD básico), scripts de automatización (reconocimiento, logs)
-
----
-
->  **Disclaimer Ético:** Trabajo únicamente en entornos controlados o con permiso explícito. Todos los ejercicios documentados aquí se realizaron en laboratorios propios o en plataformas diseñadas para aprendizaje (CTFs / VulnHub).
+BTL1 (Blue Team Level 1): En preparación vía TryHackMe SOC Level 1 Path
